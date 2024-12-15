@@ -1,0 +1,216 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 1.28571;
+    letter-spacing: -0.02em;
+    color: #111;
+    background-color: #fff;
+}
+
+a {
+    color: currentColor;
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+/* HEADER */
+
+.logo {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.11111;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+}
+
+.logo span {
+    font-style: italic;
+}
+
+.menu-link {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14286;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+    color: #fd9222;
+}
+
+/* HERO */
+
+.hero {
+    color: #fff;
+    background-color: #1e1823;
+}
+
+.hero-title {
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 1.21429;
+    letter-spacing: -0.03em;
+}
+
+.hero-button-buy {
+    font-weight: 600;
+    color: #fff;
+    background-color: #fd9222;
+}
+
+.hero-button-buy:hover,
+.hero-button-buy:focus {
+    color: #fd9222;
+    background-color: #fcf1e0;
+}
+
+.hero-made {
+    font-weight: 600;
+}
+
+.hero-made:hover,
+.hero-made:focus {
+    color: #fd9222;
+}
+
+.hero-scroll {
+    font-weight: 500;
+    letter-spacing: -0.03em;
+}
+
+.hero-scroll:hover,
+.hero-scroll:focus {
+    color: #fd9222;
+}
+
+/* FEATURES */
+
+.features {
+    color: #fff;
+    background-color: #1e1823;
+}
+
+.features-title {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 1.16667;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.features-item-title {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.features-item-text {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+/* INGREDIENTS */
+
+.ingredients-title {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 1.16667;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.ingredients-title span {
+    color: #fd9222;
+}
+
+.ingredients-item-link {
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.ingredients-item.orange {
+    color: #fff;
+    background-color: #fd9222;
+}
+
+.ingredients-item.dark {
+    color: #fff;
+    background-color: #1e1823;
+}
+
+/* MADE */
+
+.made-title {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 1.16667;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.made-title span {
+    color: #fd9222;
+}
+
+.made-list-title {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1.33333;
+}
+
+/* REVIEWS */
+
+.reviews-item-title {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1.33333;
+}
+
+.reviews-item-text {
+    color: rgba(17, 17, 17, 0.7);
+}
+
+.reviews-button {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.reviews-button:hover,
+.reviews-button:focus {
+    color: #fd9222;
+}
+
+/* FOOTER */
+
+.footer {
+    color: #fff;
+    background-color: #1e1823;
+}
+
+.footer-title {
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 1.21429;
+}
+
+.footer-title span {
+    color: #fd9222;
+}
+
+.footer-address-title {
+    font-weight: 500;
+}
+
+.footer-address-tel,
+.footer-address-mail {
+    font-style: normal;
+}
